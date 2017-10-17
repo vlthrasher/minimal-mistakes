@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Victoria Thrasher's Portfolio"
+title                    : "Hi!  I'm Vicky!"
 title_separator          : "-"
 name                     : "Victoria Thrasher"
-description              : "An amazing website."
+description              : "A resume and portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Victoria Thrasher"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I am a 3rd year Computer Science major with a Statistics minor at the University of California, Irvine."
   location         : "Somewhere"
-  email            :
+  email            : "vic07kyt@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
