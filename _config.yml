@@ -82,10 +82,9 @@ analytics:
 
 
 # Site Author
-author:
-  image            : /assets/images/Thrasher_Victoria_GC_14_001.jpg
+author: 
   name             : "Victoria Thrasher"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/Thrasher_Victoria_GC_14_001.jpg
   bio              : "I am a 3rd year Computer Science major with a Statistics minor at the University of California, Irvine."
   email            : "vic07kyt@gmail.com"
   uri              :
