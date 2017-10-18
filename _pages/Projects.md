@@ -5,10 +5,10 @@ permalink: /projects/
 ---
 
 <div class="grid_wrapper">
-  {% for post in site.projects %}
+  {% for project in site.projects %}
       {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
 
 
-Project Added
+Projects
