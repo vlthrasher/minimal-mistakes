@@ -14,7 +14,5 @@ permalink: /projects/
 </div>
 
 
-Projects For All
-
 
 
