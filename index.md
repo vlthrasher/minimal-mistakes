@@ -10,5 +10,5 @@ I have used these interests to develop a few projects including a perfect class 
 
 If you want to know more, feel free to poke around the site to get a better idea of who I am and what I do!
 
-<div style="text-align: right"> Sincerely,   </div>
-<div style="text-align: right"> Vicky </div> :cake:
+<div style="text-align: right"> Sincerely,            </div>
+<div style="text-align: right"> Vicky :cake: </div> 
