@@ -3,6 +3,23 @@ layout: single
 title: About Me
 permalink: /about/
 ---
+# [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+
+[![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
+
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+
+:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+
+[![Minimal Mistakes live preview][2]][1]
+
+[1]: https://mmistakes.github.io/minimal-mistakes/
+[2]: screenshot.png (live preview)
+
+![layout examples](screenshot-layouts.png)
+
+## Notable Features
+
 
 ##Computer Science
 I have always enjoyed making things.  When I was really young, I would make water slides for my dolls but I would always become frustrated with my lack of access to the right materials.  Computer Science allowed me to make things without having those material limitations.  When I was in middle school and high school I began coding with coding camps my school's Java class.  My senior year I challenged the AP Computer Science exam and recieved a 4.
