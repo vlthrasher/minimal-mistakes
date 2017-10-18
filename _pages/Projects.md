@@ -4,4 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-Projects Project Future Success
+<div class="grid_wrapper">
+  {% for post in site.posts %}
+      {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
