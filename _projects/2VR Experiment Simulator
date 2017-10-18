@@ -2,6 +2,6 @@
 title: "VR Experiment Simulator"
 excerpt: "August 2013: Takes data collected during a virtual reality experiment and regenerates the scene for future study."
 header:
-  image: /assets/images/VRSimulator.jpg
-  teaser: assets/images/VRSimulator.jpg
+  image: /assets/images/VRSimulator.png
+  teaser: assets/images/VRSimulator.png
 ---
