@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About Me"
-    url: https://vlthrasher.github.io/about
+    url: https://vlthrasher.github.io/about/
   - title: "Projects"
-    url: https://www.youtube.com/
+    url: https://vlthrasher.github.io/projects/
   - title: "Work Experience"
-    url: https://www.google.com/
+    url: https://vlthrasher.github.io/work/
 docs:
   - title: "Vicky Pages"
