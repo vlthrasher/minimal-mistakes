@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Work Experience
+title: "Work Experience"
 permalink: /work/
 ---
 
