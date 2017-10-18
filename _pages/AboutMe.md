@@ -4,7 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-:smile:
 ## Computer Science
 I have always enjoyed making things.  When I was really young, I would make water slides for my dolls but I would always become frustrated with my lack of access to the right materials.  Computer Science allowed me to make things without having those material limitations.  When I was in middle school and high school I began coding with coding camps my school's Java class.  My senior year I challenged the AP Computer Science exam and recieved a 4.
 
