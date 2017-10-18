@@ -4,4 +4,11 @@ title: Work Experience
 permalink: /work/
 ---
 
-Working Working Working
+{% include base_path %}
+
+
+<div class="grid__wrapper">
+  {% for post in site.work %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
