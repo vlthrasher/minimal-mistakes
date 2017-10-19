@@ -2,7 +2,6 @@
 title: "Saccade Analyzer"
 excerpt: "July 2013: Takes eye tracking data collected and looks to see if a saccade occured."
 header:
-  image: /assets/images/1.png
   teaser: assets/images/1.png
 ---
 
