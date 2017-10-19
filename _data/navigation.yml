@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: https://vlthrasher.github.io/about/
-  -title: "Education"
+  - title: "Education & Involvement"
     url: https://vlthrasher.github.io/edu&inv/
   - title: "Projects"
     url: https://vlthrasher.github.io/projects/
