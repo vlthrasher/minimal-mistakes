@@ -11,3 +11,4 @@ Potential Future Developements:
 - Gather data from online rather than user input
 - Add a neural network to suggest better schedules without asking the user
 - Create a website to handle the front-end so it can become public
+- Design a better GUI to present schedules
