@@ -1,7 +1,0 @@
----
-title: "Maze"
-excerpt: "March 2017: Creates a random maze and then traces a path from the start to the end block."
-header:
-  image: /assets/images/Maze.jpg
-  teaser: assets/images/Maze.jpg
----
