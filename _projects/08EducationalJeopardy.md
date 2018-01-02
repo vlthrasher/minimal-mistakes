@@ -1,7 +1,6 @@
 ---
 title: "Educational Jeopardy"
-excerpt: "May 2013-August 2014:
-          A template for teachers to build jeopardy style review games"
+excerpt: "May 2013-August 2014: A template for teachers to build jeopardy style review games"
 header:
   teaser: assets/images/Jeopardy.jpg
 ---
