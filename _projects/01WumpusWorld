@@ -1,11 +1,12 @@
 ---
 title: "Wumpus World AI"
 excerpt: "October 2017-December 2017: AI player that explores a static unknown world looking for gold and avoiding death"
+permalink: /WumpusWorld/
 header:
   teaser: assets/images/Wumpus.png
 ---
 
-This project was completed with a partner as part of the Intro to AI class.  
+This project was completed in python with a partner as part of the Intro to AI class.  
 Environment Assumptions
 - The agent always started in the bottom left corner of the field of the cave and started facing right
 - The cave consisted of a grid of 4-7 rooms by 4-7 rooms
