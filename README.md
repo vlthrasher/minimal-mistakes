@@ -1,4 +1,18 @@
-# [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+# Development
+
+##Testing
+To set up your environment to develop this theme, run `bundle install`.
+
+To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000/`. This starts a Jekyll server and that will regenerate. You should see the changes in the browser after a refresh.
+
+## Adding a Project
+1. In the ~/_projects folder
+
+## Adding a Page
+1. In the ~/_pages folder
+
+# Theme
+## [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
 
@@ -13,7 +27,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ![layout examples](screenshot-layouts.png)
 
-## Notable Features
+### Notable Features
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -26,7 +40,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Indonesian, Italian (Italiano), Korean, Nepali (Nepalese), Polish, Russian, Spanish (Español), Swedish, Turkish (Türkçe), and Vietnamese.
 
-## Skins (Color Variations)
+### Skins (Color Variations)
 
 This theme comes in seven different skins (including the default one).
 
@@ -38,7 +52,7 @@ This theme comes in seven different skins (including the default one).
 | --- | --- | --- |
 | ![dirt skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png) | ![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png) | ![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png) |
 
-## Demo Pages
+### Demo Pages
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -61,71 +75,17 @@ Additional sample posts are available under [posts archive][year-archive] on the
 [tags-archive]: https://mmistakes.github.io/minimal-mistakes/tags/
 [year-archive]: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
-## Usage
+### Usage
 
 For detailed instructions on how to configure, customize, add content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 **Note:** Gem version of the theme requires Jekyll v3.3+ and is not currently supported on [GitHub Pages](https://pages.github.com/). You can still use the theme with GitHub Pages, you'll just need to install using the old "[repo fork method](https://mmistakes.github.io/minimal-mistakes/docs/installation/)".
 
-## Quick Start
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "minimal-mistakes-jekyll"
-```
-
-Add this line to your Jekyll site's `_config.yml` file:
-
-```yaml
-theme: minimal-mistakes-jekyll
-```
-
-Then run Bundler to install the theme gem and dependencies:
-
-```bash
-bundle install
-```
-
-To update the theme run `bundle update`.
-
 ---
 
-## Contributing
+### Credits
 
-Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
-
-Minimal Mistakes has been designed as a base for you to customize and fit your site's unique needs. Please keep this in mind when requesting features and/or submitting pull requests. If it's not something that most people will use, I probably won't consider it. When in doubt ask. 
-
-This goes for author sidebar links and "share button" additions -- I have no intention of merging in every possibly option, the essentials are there to get you started :smile:.
-
-### Pull Requests
-
-When submitting a pull request:
-
-1. Clone the repo.
-2. Create a branch off of `master` and give it a meaningful name (e.g. `my-awesome-new-feature`).
-3. Open a pull request on GitHub and describe the feature or fix.
-
-Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
-
-### Adding a Project
-In the ~/_projects folder
-
-### Adding a Page
-In the ~/_pages folder
-
----
-
-## Credits
-
-### Creator
+#### Creator
 
 **Michael Rose**
 
@@ -133,13 +93,13 @@ In the ~/_pages folder
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-### Icons + Demo Images:
+#### Icons + Demo Images:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Unsplash](https://unsplash.com/)
 
-### Other:
+#### Other:
 
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
@@ -152,7 +112,7 @@ In the ~/_pages folder
 
 ---
 
-## License
+### License
 
 The MIT License (MIT)
 
