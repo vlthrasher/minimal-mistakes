@@ -1,8 +1,8 @@
 ---
 title: "Kofax"
 excerpt: "July 2015-September 2015: Data Entry Assistant"
+permalink: /Kofax/
 header:
-  image: 
   teaser: assets/images/Kofax.jpg
 ---
 

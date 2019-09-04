@@ -1,8 +1,8 @@
 ---
 title: "JCPenney"
 excerpt: "July 2015-September 2015: Customer Service Specialist"
+permalink: /JCPenney/
 header:
-  image: 
   teaser: assets/images/jcp.jpg
 ---
 
