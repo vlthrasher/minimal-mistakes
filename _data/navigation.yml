@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About Me"
-    url: https://vlthrasher.github.io/about/
+    url: /about/
   - title: "Education & Involvement"
-    url: https://vlthrasher.github.io/edu&inv/
+    url: /edu&inv/
   - title: "Projects"
-    url: https://vlthrasher.github.io/projects/
+    url: /projects/
   - title: "Work Experience"
-    url: https://vlthrasher.github.io/work/
+    url: /work/
 docs:
   - title: "Other Pages"
