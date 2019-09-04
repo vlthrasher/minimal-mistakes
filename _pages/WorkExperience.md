@@ -8,7 +8,8 @@ permalink: /work/
 
 
 <div class="grid__wrapper">
-  {% for post in site.work %}
+  {% assign reverse_work = site.work | reverse %}
+  {% for post in reverse_work %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
