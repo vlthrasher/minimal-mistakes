@@ -1,6 +1,7 @@
 ---
 title: "OpenRAVE Interface"
 excerpt: "July 2017: Generates a GUI that runs alongside an OpenRAVE rendering to allow easier adjustments."
+permalink: projects/OpenRAVE/
 header:
   image: 
   teaser: assets/images/OpenRAVEHand.png

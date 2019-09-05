@@ -1,7 +1,7 @@
 ---
 title: "Oregon State University"
 excerpt: "June 2017-August 2017: Research Experience for Undergraduates Intern"
-permalink: /OSU_REU/
+permalink: work/OSU_REU/
 header:
   teaser: assets/images/OSU.jpg
 ---

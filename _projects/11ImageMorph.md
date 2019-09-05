@@ -1,7 +1,7 @@
 ---
 title: "Image Morph"
 excerpt: "May 2018: Used two images and matching points to blend the two images together"
-permalink: /ImageMorph/
+permalink: projects/ImageMorph/
 header:
   teaser: assets/images/ImageMorph.jpeg
 ---

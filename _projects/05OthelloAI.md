@@ -1,6 +1,7 @@
 ---
 title: "Othello AI"
 excerpt: "Built Game and ..."
+permalink: projects/OthelloAI/
 header:
   teaser: assets/images/Othello.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Directions"
 excerpt: "May 2017: Finds the shortest route by distance and by time between two locations"
+permalink: projects/Directions/
 header:
   teaser: assets/images/Road.jpg
 ---

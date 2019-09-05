@@ -1,7 +1,7 @@
 ---
 title: "Rochester Institute of Technology"
 excerpt: "June 2014-August 2014: High School Research Intern"
-permalink: /RIT_Intern/
+permalink: work/RIT_Intern/
 header:
   teaser: assets/images/RIT.jpeg
 ---

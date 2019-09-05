@@ -1,6 +1,7 @@
 ---
 title: "VR Experiment Simulator"
 excerpt: "August 2013: Takes data collected during a virtual reality experiment and regenerates the scene for future study."
+permalink: projects/VRSimulator/
 header:
   teaser: assets/images/VRSimulator.png
 ---

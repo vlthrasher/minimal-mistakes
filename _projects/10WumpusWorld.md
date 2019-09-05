@@ -1,7 +1,7 @@
 ---
 title: "Wumpus World AI"
 excerpt: "October 2017-December 2017: AI player that explores a static unknown world looking for gold and avoiding death"
-permalink: /WumpusWorld/
+permalink: projects/WumpusWorld/
 header:
   teaser: assets/images/Wumpus.png
 ---
