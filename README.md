@@ -6,7 +6,19 @@ To set up your environment to develop this theme, run `bundle install`.
 To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000/`. This starts a Jekyll server and that will regenerate. You should see the changes in the browser after a refresh.
 
 ## Adding a Project
-1. In the ~/_projects folder
+1. Add a new .md file to the _projects/ folder
+    - make sure to start the file name with next number available so projects are ordered from newest to oldest
+2. Add a description to the .md file
+    - copy the basic structure from the other files
+    - any links to work/projects need to start with "/"
+3. Add an image for the thumbnail to the assets/images/ folder
+    - change the "teaser" in the new .md file to match the path for your image
+
+## Adding a Work Experience
+1. Refer to the above section about adding a project
+    - use the _work folder instead of the _projects folder
+2. If you added any projects with this work, make sure they link to each other
+    - any links to work/projects need to start with "/"
 
 ## Adding a Page
 1. In the ~/_pages folder
